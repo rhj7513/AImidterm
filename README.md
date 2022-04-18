@@ -10,4 +10,4 @@
 <br><br><br>
 <img src="./readme_blobs/Concept.png" height="400px">
 <br>
-- 자세히 보기 컨셉 (차트만 참고)
+
