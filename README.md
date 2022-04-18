@@ -6,8 +6,4 @@
 <br><br><br>
 <img src="./readme_blobs/result_plan.jpeg" height="400px">
 <br>
-- 결과가 보일때 자세히 보기 버튼을 통해 차트로 퍼센티지를 보여줌.
-<br><br><br>
-<img src="./readme_blobs/Concept.png" height="400px">
-<br>
 
