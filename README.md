@@ -9,4 +9,4 @@
 <br>
 - 테스트 해보기.
 <br><br><br>
-https://rhj7513.github.io/AImidterm/web/
+
